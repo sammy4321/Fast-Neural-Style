@@ -1,4 +1,4 @@
-# Prisma-Photo-Editor
+# Fast-Neural-Style-For-Prisma
 
 Prisma is a photo editing app that transforms your photos into works of art using the styles of famous artists. A unique combination of neural networks and artificial intelligence helps you turn memorable moments into timeless art.
 
